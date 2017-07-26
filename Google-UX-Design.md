@@ -4,7 +4,7 @@
 
 ---
 
-<h2>A. In-App Search</h2>
+<h2>A. App Navigation and Exploration</h2>
 
 ---
 
