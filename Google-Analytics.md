@@ -1,126 +1,170 @@
-# Google Analytics Academy
+<h1>Google Analytics Academy</h1>
 
-Analytics Academy helps you learn about Google's measurement tools so that you can grow your business through intelligent data collection and analysis.
-
----
-
-## Google Analytics for Beginners
-
-Learn the basic features of Google Analytics including how to create an account, implement tracking code, analyze basic reports, and set up goals and campaign tracking.
-
-### Unit 1: Introducing Google Analytics
-#### Lesson 1: Why digital analytics?
-#### Lesson 2: How Google Analytics works
-#### Lesson 3: Google Analytics setup
-#### Lesson 4: How to set up views with filters
-
-### Unit 2: The Google Analytics layout
-#### Lesson 1: Navigating Google Analytics
-#### Lesson 2: Understanding overview reports
-#### Lesson 3: Understanding full reports
-#### Lesson 4: How to share reports
-#### Lesson 5: How to set up dashboards and shortcuts
-
-### Unit 3: Basic Reporting
-#### Lesson 1: Audience reports
-#### Lesson 2: Acquisition reports
-#### Lesson 3: Behavior reports
-
-### Unit 4: Basic Campaign and Conversion Tracking
-#### Lesson 1: Measuring Custom Campaigns
-#### Lesson 2: Tracking campaigns with the URL Builder
-#### Lesson 3: Using Goals to measure business objectives
-#### Lesson 4: Measuring AdWords campaigns
-#### Lesson 5: Course review and next steps
+<p>Analytics Academy helps you learn about Google's measurement tools so that you can grow your business through intelligent data collection and analysis.</p>
 
 ---
 
-## Advanced Google Analytics
+<h2>A. Google Analytics for Beginners</h2>
 
-Learn about advanced Google Analytics features including data collection, processing and configuration, and more complex analysis and marketing tools.
-
-### Unit 1: Data Collection and Processing
-#### Lesson 1: Google Analytics data collection
-#### Lesson 2: Categorizing into users and sessions
-#### Lesson 3: Applying configuration settings
-#### Lesson 4: Storing data and generating reports
-#### Lesson 5: Creating a measurement plan
-
-### Unit 2: Setting Up Data Collection and Configuration
-#### Lesson 1: Organize your Analytics account
-#### Lesson 2: Set up advanced filters on views
-#### Lesson 3: Create your own Custom Dimensions
-#### Lesson 4: Create your own Custom Metrics
-#### Lesson 5: Understand user behavior with Event Tracking
-#### Lesson 6: More useful configurations
-
-### Unit 3: Advanced Analysis Tools and Techniques
-#### Lesson 1: Segment data for insight
-#### Lesson 2: Analyze data by channel
-#### Lesson 3: Analyze data by audience
-#### Lesson 4: Analyze data with Custom Reports
-
-### Unit 4: Advanced Marketing Tools
-#### Lesson 1: Introduction to remarketing
-#### Lesson 2: Better targeting with Dynamic Remarketing
-#### Lesson 3: Course Summary
+<p>Learn the basic features of Google Analytics including how to create an account, implement tracking code, analyze basic reports, and set up goals and campaign tracking.</p>
 
 ---
 
-## Ecommerce Analytics: From Data to Decisions
-
-Discover useful reporting and analysis techniques to help your ecommerce business make informed decisions using Google Analytics data. In this self-paced online course, you’ll immerse yourself in the measurement planning process and practice navigating Google Analytics to improve the performance of an example ecommerce business.
-
-### Unit 1: Introduction to Ecommerce Analysis
-#### Lesson 1: Course overview
-#### Lesson 2: Using the measurement plan
-#### Lesson 3: Reporting vs. analysis
-#### Lesson 4: Analysis preparation
-#### Lesson 5: Next steps
-
-### Unit 2: Understanding Customers
-#### Lesson 1: Traffic source analysis
-#### Lesson 2: Multi-channel analysis
-#### Lesson 3: Customer profile analysis
-#### Lesson 4: Summary and takeaways
-
-### Unit 3: Understanding Shopping Behavior
-#### Lesson 1: Enhanced Ecommerce overview
-#### Lesson 2: On-site merchandising analysis
-#### Lesson 3: Shopping behavior analysis
-#### Lesson 4: Checkout analysis
-#### Lesson 5: Summary and takeaways
-#### Lesson 6: Course summary
+<h3>1. Introducing Google Analytics</h3>
+<ol type="a">
+    <li>Why digital analytics?</li>
+    <li>How Google Analytics works</li>
+    <li>Google Analytics setup</li>
+    <li>How to set up views with filters</li>
+</ol>
 
 ---
 
-## Google Tag Manager Fundamentals
-
-Managing multiple analytics and marketing tags for your site can be a challenge. Redundant or incorrect tags can distort data measurement and reduce your site performance. In this self-paced course, you’ll learn how Google Tag Manager can simplify the tag implementation and management process for marketers, analysts, and developers.
-
-### Unit 1: Starting out with Google Tag Manager
-#### Lesson 1: Course Introduction
-#### Lesson 2: Start with a measurement plan
-#### Lesson 3: Develop a tag implementation strategy
-#### Lesson 4: Tag Manager overview
-
-### Unit 2: Setting up Google Tag Manager
-#### Lesson 1: Install the Google Analytics tag
-#### Lesson 2: Set up a GA Property variable
-#### Lesson 3: Set up cross-domain tracking
-#### Lesson 4: Understand the Data Layer
-
-### Unit 3: Collecting data using the Data Layer, variables, and events
-#### Lesson 1: Pass static values into Custom Dimensions
-#### Lesson 2: Pass dynamic values into Custom Metrics
-#### Lesson 3: Track events with variables
-
-### Unit 4: Using additional tags for marketing and remarketing
-#### Lesson 1: Set up AdWords conversion tracking
-#### Lesson 2: Set up Dynamic Remarketing
-#### Lesson 3: Course Review
+<h3>2. The Google Analytics layout</h3>
+<ol type="a">
+    <li>Navigating Google Analytics</li>
+    <li>Understanding overview reports</li>
+    <li>Understanding full reports</li>
+    <li>How to share reports</li>
+    <li>How to set up dashboards and shortcuts</li>
+</ol>
 
 ---
 
-### Resources
-#### Google Analytics Academy https://analytics.google.com/analytics/academy/
+<h3>3. Basic Reporting</h3>
+<ol type="a">
+    <li>Audience reports</li>
+    <li>Acquisition reports</li>
+    <li>Behavior reports</li>
+</ol>
+
+---
+
+<h3>4. Basic Campaign and Conversion Tracking</h3>
+<ol type="a">
+    <li>Measuring Custom Campaigns</li>
+    <li>Tracking campaigns with the URL Builder</li>
+    <li>Using Goals to measure business objectives</li>
+    <li>Measuring AdWords campaigns</li>
+    <li>Course review and next steps</li>
+</ol>
+
+---
+
+<h2>B. Advanced Google Analytics</h2>
+
+<p>Learn about advanced Google Analytics features including data collection, processing and configuration, and more complex analysis and marketing tools.</p>
+
+---
+
+<h3>1. Data Collection and Processing</h3>
+<ol type="a">
+    <li>Google Analytics data collection</li>
+    <li>Categorizing into users and sessions</li>
+    <li>Applying configuration settings</li>
+    <li>Storing data and generating reports</li>
+    <li>Creating a measurement plan</li>
+</ol>
+
+<h3>2. Setting Up Data Collection and Configuration</h3>
+<ol type="a">
+    <li>Organize your Analytics account</li>
+    <li>Set up advanced filters on views</li>
+    <li>Create your own Custom Dimensions</li>
+    <li>Create your own Custom Metrics</li>
+    <li>Understand user behavior with Event Tracking</li>
+    <li>More useful configurations</li>
+</ol>
+
+<h3>3. Advanced Analysis Tools and Techniques</h3>
+<ol>
+    <li>Segment data for insight</li>
+    <li>Analyze data by channel</li>
+    <li>Analyze data by audience</li>
+    <li>Analyze data with Custom Reports</li>
+</ol>
+
+<h3>4. Advanced Marketing Tools</h3>
+<ol type="a">
+    <li>Introduction to remarketing</li>
+    <li>Better targeting with Dynamic Remarketing</li>
+    <li>Course Summary</li>
+</ol>
+
+---
+
+<h2>C. Ecommerce Analytics: From Data to Decisions</h2>
+
+<p>Discover useful reporting and analysis techniques to help your ecommerce business make informed decisions using Google Analytics data. In this self-paced online course, you’ll immerse yourself in the measurement planning process and practice navigating Google Analytics to improve the performance of an example ecommerce business.</p>
+
+---
+
+<h3>1. Introduction to Ecommerce Analysis</h3>
+<ol type="a">
+    <li>Course overview</li>
+    <li>Using the measurement plan</li>
+    <li>Reporting vs. analysis</li>
+    <li>Analysis preparation</li>
+    <li>Next steps</li>
+</ol>
+
+<h3>2. Understanding Customers</h3>
+<ol type="a">
+    <li>Traffic source analysis</li>
+    <li>Multi-channel analysis</li>
+    <li>Customer profile analysis</li>
+    <li>Summary and takeaways</li>
+</ol>
+
+<h3>3. Understanding Shopping Behavior</h3>
+<ol type="a">
+    <li>nhanced Ecommerce overview</li>
+    <li>On-site merchandising analysis</li>
+    <li>Shopping behavior analysis</li>
+    <li>Checkout analysis</li>
+    <li>Summary and takeaways</li>
+    <li>Course summary</li>
+</ol>
+
+---
+
+<h2>D. Google Tag Manager Fundamentals</h2>
+
+<p>Managing multiple analytics and marketing tags for your site can be a challenge. Redundant or incorrect tags can distort data measurement and reduce your site performance. In this self-paced course, you’ll learn how Google Tag Manager can simplify the tag implementation and management process for marketers, analysts, and developers.</p>
+
+<h3>1. Starting out with Google Tag Manager</h3>
+<ol type="a">
+    <li>Course Introduction</li>
+    <li>Start with a measurement plan</li>
+    <li>Develop a tag implementation strategy</li>
+    <li>Tag Manager overview</li>
+</ol>
+
+<h3>2. Setting up Google Tag Manager</h3>
+<ol type="a">
+    <li>Install the Google Analytics tag</li>
+    <li>Set up a GA Property variable</li>
+    <li>Set up cross-domain tracking</li>
+    <li>Understand the Data Layer</li>
+</ol>
+
+<h3>3. Collecting data using the Data Layer, variables, and events</h3>
+<ol type="a">
+  <li>Pass static values into Custom Dimensions</li>
+  <li>Pass dynamic values into Custom Metrics</li>
+  <li>Track events with variables</li>
+</ol>
+
+<h3>4. Using additional tags for marketing and remarketing</h3>
+<ol type="a">
+    <li>Set up AdWords conversion tracking</li>
+    <li>Set up Dynamic Remarketing</li>
+    <li>Course Review</li>
+</ol>
+
+---
+
+<h3>Resources</h3>
+<ol>
+    <li><a href="https://analytics.google.com/analytics/academy/" title="Google Analytics Academy">Google Analytics Academy</a></li>
+</ol>
