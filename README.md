@@ -3,7 +3,6 @@
 ---
 
 ### PRE-COURSE
-1.
 
 ### MARKETING FUNDAMENTALS
 1. Tools
